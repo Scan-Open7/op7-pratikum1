@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box-form{
+    width: 30%;
+    min-height: 500px;
+    border: 1px solid;
+    margin: 10px auto;
+}
+.title-form{
+    width: 100%;
+    height: 40px;
+    background-color: #21bd95;
+    text-align: center;
+    color: white;
+    line-height: 30px;
+    font-size: 20px;
+}
+.content-form{
+    max-width: 100%;
+    height: 500px;
+    background-color: #569693;
+    padding: 1%;
+}
